@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://nit.fau.edu/</loc>
+  <lastmod>2019-04-22T16:52:27+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/index</loc>
+  <lastmod>2019-04-22T16:52:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/it/forms</loc>
+  <lastmod>2019-04-19T15:06:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/it/policies</loc>
+  <lastmod>2019-04-19T15:10:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/it/equipment</loc>
+  <lastmod>2019-04-19T15:09:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/it/service-times</loc>
+  <lastmod>2019-04-19T15:08:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/it/team</loc>
+  <lastmod>2019-04-12T19:07:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/it/software</loc>
+  <lastmod>2019-04-17T15:32:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/research/research-policies</loc>
+  <lastmod>2019-04-12T19:07:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/research/dmp</loc>
+  <lastmod>2019-04-12T19:07:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/research/bhric</loc>
+  <lastmod>2019-04-12T19:07:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/research/transcription-services</loc>
+  <lastmod>2019-04-12T19:07:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/training/redcap</loc>
+  <lastmod>2019-04-12T19:23:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/training/qualtrics</loc>
+  <lastmod>2019-04-12T19:37:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/contact/contact</loc>
+  <lastmod>2019-04-12T19:07:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/contact/faqs</loc>
+  <lastmod>2019-04-12T19:07:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nit.fau.edu/documents/Phishing%20Example.pdf</loc>
+  <lastmod>2018-04-11T18:26:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+Allow: /
+
+# Sitemap files
+Sitemap: https://nit.fau.edu/sitemap.xml
