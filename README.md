@@ -1,2 +1,2 @@
 # nurnet
- Nursint IT
+Website for the Nursing IT department
